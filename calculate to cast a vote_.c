@@ -5,7 +5,7 @@ int main()
     int age;
     char c[20];
     printf("you are an indian citizen (yes/no):");
-    scanf("%s",&c)
+    scanf("%s",&c);
     
     printf("enter your age:");
     scanf("%d",&age);
